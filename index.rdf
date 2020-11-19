@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:MAF="http://maf.mozdev.org/metadata/rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<RDF:Description RDF:about="urn:root">
+  <MAF:originalurl RDF:resource="https://casinomoon.customer.smartsender.eu/lp/CJkK1SSP"/>
+  <MAF:title RDF:resource="Today in our casino it is 25 years old😍😍😍, in honor of this, we distribute bonuses and increase the chances of winning twice🥶🥶🥶"/>
+  <MAF:archivetime RDF:resource="Tue, 17 Nov 2020 14:36:55 GMT"/>
+  <MAF:indexfilename RDF:resource="index.html"/>
+  <MAF:charset RDF:resource="UTF-8"/>
+</RDF:Description>
+</RDF:RDF>
